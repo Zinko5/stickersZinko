@@ -4,10 +4,28 @@
     android:layout_height="match_parent"
     android:padding="16dp">
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/stickerPackList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/noPacksText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="¡Hola, mundo!" />
+        android:text="Sin paquetes de stickers"
+        android:textSize="18sp"
+        android:layout_centerInParent="true"
+        android:visibility="visible" />
+
+    <Button
+    android:id="@+id/createPackButton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Crear paquete de WhatsApp"
+    android:layout_alignParentBottom="true"
+    android:layout_centerHorizontal="true"
+    android:layout_marginBottom="16dp" />
 
 </RelativeLayout>

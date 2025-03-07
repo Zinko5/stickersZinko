@@ -7,19 +7,22 @@ INJECTED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/zinko/.gradle/caches/transforms-3/7bc897f35e8f26383f156c6961c61a19/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/zinko/.gradle/caches/transforms-3/f5e49d2319a94a5f2193f3f47ae7f6f6/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:glide:4.16.0] /home/zinko/.gradle/caches/transforms-3/2157a7d2ab21e117a82e55eee8240a03/transformed/jetified-glide-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/zinko/.gradle/caches/transforms-3/8999f87d83c4813334a57ff7687ef4fb/transformed/recyclerview-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/zinko/.gradle/caches/transforms-3/d86842503d8d71025551732c924b6885/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.3.6] /home/zinko/.gradle/caches/transforms-3/d9cdf0d8f20b79404bbeec53b05907d4/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.6.0] /home/zinko/.gradle/caches/transforms-3/8172fe7e0f2ae06d9fe60b45212e071e/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/zinko/.gradle/caches/transforms-3/bfc9ec5021502f5464dcbba51426572b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/zinko/.gradle/caches/transforms-3/75573a91bb24b891608250c12ad74b79/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.emoji2:emoji2:1.2.0] /home/zinko/.gradle/caches/transforms-3/e6cc2b2d8911a4684bdbf3fe7c74bb2d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/zinko/.gradle/caches/transforms-3/c90912cfa7907475306263035ca7088f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/zinko/.gradle/caches/transforms-3/e3aa8a96113bfbc3449c2939a63cd1a2/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/zinko/.gradle/caches/transforms-3/c8d531f4db7d7d427147d4e026b58e0b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/zinko/.gradle/caches/transforms-3/6558df45dac02edaea42b3a55144ff2f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/zinko/.gradle/caches/transforms-3/2c8aee0338d2054a82d6e6ebfa0b2776/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.loader:loader:1.0.0] /home/zinko/.gradle/caches/transforms-3/99c8588bc4c1f63eea9c03f1fa953856/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/zinko/.gradle/caches/transforms-3/d5a4e9590ceda6e3c616943f37fd0637/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/zinko/.gradle/caches/transforms-3/79922b03dadea33bdd319745f5db8677/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.9.0] /home/zinko/.gradle/caches/transforms-3/4e2424b23fa6e8bba8e012964a845b80/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/zinko/.gradle/caches/transforms-3/c90912cfa7907475306263035ca7088f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/zinko/.gradle/caches/transforms-3/e3aa8a96113bfbc3449c2939a63cd1a2/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.9.0] /home/zinko/.gradle/caches/transforms-3/31dd2fd25ee9a0eaa021c7cd8a443f22/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/zinko/.gradle/caches/transforms-3/aac33e449777245b110d7a5aa1e5f5d8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/zinko/.gradle/caches/transforms-3/eaf38ecd125200be5cc6930a21dfb71f/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
@@ -39,8 +42,8 @@ INJECTED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml
 INJECTED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:2:1-20:12
 INJECTED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:2:1-20:12
 	package
-		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml
+		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:2:1-20:12
 		INJECTED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml
@@ -53,7 +56,7 @@ INJECTED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:5:5-18:19
+ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:4:5-18:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /home/zinko/.gradle/caches/transforms-3/e6cc2b2d8911a4684bdbf3fe7c74bb2d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /home/zinko/.gradle/caches/transforms-3/e6cc2b2d8911a4684bdbf3fe7c74bb2d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.core:core:1.9.0] /home/zinko/.gradle/caches/transforms-3/31dd2fd25ee9a0eaa021c7cd8a443f22/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
@@ -67,29 +70,33 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/zinko
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /home/zinko/.gradle/caches/transforms-3/31dd2fd25ee9a0eaa021c7cd8a443f22/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:7:9-35
 	android:label
-		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:7:9-41
+		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:6:9-41
 	android:allowBackup
-		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:5:9-35
 	android:theme
-		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:9:9-67
+		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:8:9-67
 activity#com.zinko.stickers.MainActivity
-ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:10:9-17:20
+ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:9:9-16:20
 	android:exported
-		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:12:13-36
+		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:11:13-36
 	android:name
-		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:11:13-41
+		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:10:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:13:13-16:29
+ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:12:13-15:29
 action#android.intent.action.MAIN
-ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:15:17-77
+ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:14:17-77
 	android:name
-		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:14:27-74
+activity#com.zinko.stickers.CreatePackActivity
+ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:17:9-56
+	android:name
+		ADDED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml:17:19-53
 uses-sdk
 INJECTED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/zinko/publico/stickersZinko/app/src/main/AndroidManifest.xml
@@ -100,6 +107,10 @@ MERGED from [androidx.appcompat:appcompat:1.6.1] /home/zinko/.gradle/caches/tran
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/zinko/.gradle/caches/transforms-3/f5e49d2319a94a5f2193f3f47ae7f6f6/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:glide:4.16.0] /home/zinko/.gradle/caches/transforms-3/2157a7d2ab21e117a82e55eee8240a03/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:glide:4.16.0] /home/zinko/.gradle/caches/transforms-3/2157a7d2ab21e117a82e55eee8240a03/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/zinko/.gradle/caches/transforms-3/8999f87d83c4813334a57ff7687ef4fb/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/zinko/.gradle/caches/transforms-3/8999f87d83c4813334a57ff7687ef4fb/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/zinko/.gradle/caches/transforms-3/d86842503d8d71025551732c924b6885/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/zinko/.gradle/caches/transforms-3/d86842503d8d71025551732c924b6885/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.3.6] /home/zinko/.gradle/caches/transforms-3/d9cdf0d8f20b79404bbeec53b05907d4/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] /home/zinko/.gradle/caches/transforms-3/d9cdf0d8f20b79404bbeec53b05907d4/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.6.0] /home/zinko/.gradle/caches/transforms-3/8172fe7e0f2ae06d9fe60b45212e071e/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
@@ -110,10 +121,16 @@ MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/zinko/.gradle/cach
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/zinko/.gradle/caches/transforms-3/75573a91bb24b891608250c12ad74b79/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.emoji2:emoji2:1.2.0] /home/zinko/.gradle/caches/transforms-3/e6cc2b2d8911a4684bdbf3fe7c74bb2d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
 MERGED from [androidx.emoji2:emoji2:1.2.0] /home/zinko/.gradle/caches/transforms-3/e6cc2b2d8911a4684bdbf3fe7c74bb2d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/zinko/.gradle/caches/transforms-3/c90912cfa7907475306263035ca7088f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/zinko/.gradle/caches/transforms-3/c90912cfa7907475306263035ca7088f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/zinko/.gradle/caches/transforms-3/e3aa8a96113bfbc3449c2939a63cd1a2/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/zinko/.gradle/caches/transforms-3/e3aa8a96113bfbc3449c2939a63cd1a2/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/zinko/.gradle/caches/transforms-3/c8d531f4db7d7d427147d4e026b58e0b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/zinko/.gradle/caches/transforms-3/c8d531f4db7d7d427147d4e026b58e0b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/zinko/.gradle/caches/transforms-3/6558df45dac02edaea42b3a55144ff2f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/zinko/.gradle/caches/transforms-3/6558df45dac02edaea42b3a55144ff2f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/zinko/.gradle/caches/transforms-3/2c8aee0338d2054a82d6e6ebfa0b2776/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/zinko/.gradle/caches/transforms-3/2c8aee0338d2054a82d6e6ebfa0b2776/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
 MERGED from [androidx.loader:loader:1.0.0] /home/zinko/.gradle/caches/transforms-3/99c8588bc4c1f63eea9c03f1fa953856/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /home/zinko/.gradle/caches/transforms-3/99c8588bc4c1f63eea9c03f1fa953856/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/zinko/.gradle/caches/transforms-3/d5a4e9590ceda6e3c616943f37fd0637/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
@@ -122,10 +139,6 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/zink
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/zinko/.gradle/caches/transforms-3/79922b03dadea33bdd319745f5db8677/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.9.0] /home/zinko/.gradle/caches/transforms-3/4e2424b23fa6e8bba8e012964a845b80/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.9.0] /home/zinko/.gradle/caches/transforms-3/4e2424b23fa6e8bba8e012964a845b80/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/zinko/.gradle/caches/transforms-3/c90912cfa7907475306263035ca7088f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/zinko/.gradle/caches/transforms-3/c90912cfa7907475306263035ca7088f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/zinko/.gradle/caches/transforms-3/e3aa8a96113bfbc3449c2939a63cd1a2/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/zinko/.gradle/caches/transforms-3/e3aa8a96113bfbc3449c2939a63cd1a2/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.9.0] /home/zinko/.gradle/caches/transforms-3/31dd2fd25ee9a0eaa021c7cd8a443f22/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.9.0] /home/zinko/.gradle/caches/transforms-3/31dd2fd25ee9a0eaa021c7cd8a443f22/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/zinko/.gradle/caches/transforms-3/aac33e449777245b110d7a5aa1e5f5d8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44

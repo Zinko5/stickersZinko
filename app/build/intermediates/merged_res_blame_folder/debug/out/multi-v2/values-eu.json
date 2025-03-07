@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.zinko.stickers.app-mergeDebugResources-20:/values-eu/values-eu.xml",
+            "outputFile": "com.zinko.stickers.app-mergeDebugResources-23:/values-eu/values-eu.xml",
             "map": [
                 {
                     "source": "/home/zinko/.gradle/caches/transforms-3/f5e49d2319a94a5f2193f3f47ae7f6f6/transformed/appcompat-1.6.1/res/values-eu/values-eu.xml",

@@ -1,6 +1,26 @@
 [
     {
-        "merged": "com.zinko.stickers.app-merged_res-22:/layout_activity_main.xml.flat",
-        "source": "com.zinko.stickers.app-main-24:/layout/activity_main.xml"
+        "merged": "/home/zinko/.gradle/daemon/7.6/com.zinko.stickers.app-merged_res-25:/layout_item_image_thumbnail.xml.flat",
+        "source": "/home/zinko/.gradle/daemon/7.6/com.zinko.stickers.app-main-27:/layout/item_image_thumbnail.xml"
+    },
+    {
+        "merged": "com.zinko.stickers.app-merged_res-25:/layout_item_image_thumbnail.xml.flat",
+        "source": "com.zinko.stickers.app-main-27:/layout/item_image_thumbnail.xml"
+    },
+    {
+        "merged": "/home/zinko/.gradle/daemon/7.6/com.zinko.stickers.app-merged_res-25:/layout_item_sticker_pack.xml.flat",
+        "source": "/home/zinko/.gradle/daemon/7.6/com.zinko.stickers.app-main-27:/layout/item_sticker_pack.xml"
+    },
+    {
+        "merged": "/home/zinko/.gradle/daemon/7.6/com.zinko.stickers.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "/home/zinko/.gradle/daemon/7.6/com.zinko.stickers.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/zinko/.gradle/daemon/7.6/com.zinko.stickers.app-merged_res-25:/layout_activity_create_pack.xml.flat",
+        "source": "/home/zinko/.gradle/daemon/7.6/com.zinko.stickers.app-main-27:/layout/activity_create_pack.xml"
+    },
+    {
+        "merged": "com.zinko.stickers.app-merged_res-25:/layout_activity_create_pack.xml.flat",
+        "source": "com.zinko.stickers.app-main-27:/layout/activity_create_pack.xml"
     }
 ]

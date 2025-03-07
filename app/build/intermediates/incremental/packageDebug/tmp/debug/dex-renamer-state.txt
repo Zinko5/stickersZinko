@@ -1,4 +1,4 @@
-#Fri Feb 28 18:22:05 BOT 2025
+#Fri Mar 07 19:02:31 BOT 2025
 base.2=/home/zinko/publico/stickersZinko/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
 path.2=5/classes.dex
 base.1=/home/zinko/publico/stickersZinko/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
